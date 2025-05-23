@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Steffen 👋
+
+I'm a student at [Technical University of Munich (TUM)](https://www.tum.de/), passionate about turning the concepts I learn in university into practical personal projects.
+
+- 🎓 Studying at TUM
+- 💻 Coding personal projects based on university concepts
+- 🌱 Always learning and building
+
+[![LinkedIn: steffen-grabert](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/steffen-grabert/)](https://www.linkedin.com/in/steffen-grabert/)
+
+---
 
 <!--
-**stegra05/stegra05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Minimalist Profile!**
+Feel free to connect with me or check out my repositories below.
 -->
