@@ -1,7 +1,11 @@
 # Steffen Grabert
 
-Student at TUM in Munich.
+Information Systems student at TUM in Munich. I build agentic LLM tools I actually use, and ship them.
 
-I build tools I actually use: [Lectern](https://github.com/stegra05/Lectern) turns lecture PDFs into Anki flashcards, [uniliga-tactics](https://github.com/stegra05/uniliga-tactics) is a tactics board for my university football team, and [simple-predictor](https://github.com/stegra05/simple-predictor) backtests prediction heuristics on 3. Liga results.
+- [Lectern](https://github.com/stegra05/Lectern): turns lecture PDFs into Anki flashcards. Released desktop app (Tauri, MIT); agentic generation with per-card provenance and a visible coverage map.
+- [ehl-claimscabana](https://github.com/stegra05/ehl-claimscabana): 1st place, QuantCo "Claim to Fame" track at the European Hackathon League 2026. Autonomous claims adjudicator built in 24h; four blind LLM assessors, median 7.6 s per case, +793k EUR simulated P&L.
+- [cake-cutting-lean](https://github.com/stegra05/cake-cutting-lean): Lean 4 formalization of Hollender-Rubinstein envy-free cake-cutting (bachelor thesis, instrumented LLM-assisted workflow).
+
+Also here: a [tactics board](https://github.com/stegra05/uniliga-tactics) for my university football team and a [3. Liga prediction backtester](https://github.com/stegra05/simple-predictor).
 
 [LinkedIn](https://www.linkedin.com/in/steffen-grabert/)
