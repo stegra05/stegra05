@@ -8,8 +8,8 @@ Information Systems student at TUM in Munich. I build agentic LLM tools I actual
 
 **Hackathons**
 
-- [ehl-final-procurecabana](https://github.com/stegra05/ehl-final-procurecabana): winner of the European Hackathon League Grand Finale 2026 and 1st place in the Tacto challenge. An AI buyer that negotiates with suppliers by e-mail and closes the cheapest deal on its own.
-- [ehl-claimscabana](https://github.com/stegra05/ehl-claimscabana): 1st place, QuantCo "Claim to Fame" track at the European Hackathon League 2026. An autonomous claims adjudicator built on four blind LLM assessors.
+- [ehl-final-procurecabana](https://github.com/stegra05/ehl-final-procurecabana): winner of the European Hackathon League Grand Finale 2026 and 1st place in the Tacto challenge (EUR 11,500 + EUR 5,000 OpenAI credits). An AI buyer that negotiates with suppliers by e-mail and closes the cheapest deal on its own.
+- [ehl-claimscabana](https://github.com/stegra05/ehl-claimscabana): 1st place in the QuantCo "Claim to Fame" track and 2nd overall at the European Hackathon League Munich 2026. An autonomous claims adjudicator built on four blind LLM assessors.
 
 Also here: a [tactics board](https://github.com/stegra05/uniliga-tactics) for my university football team and a [3. Liga prediction backtester](https://github.com/stegra05/simple-predictor).
 
