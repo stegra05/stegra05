@@ -2,9 +2,14 @@
 
 Information Systems student at TUM in Munich. I build agentic LLM tools I actually use, and ship them.
 
-- [Lectern](https://github.com/stegra05/Lectern): turns lecture PDFs into Anki flashcards. Released desktop app (Tauri, MIT); agentic generation with per-card provenance and a visible coverage map.
-- [ehl-claimscabana](https://github.com/stegra05/ehl-claimscabana): 1st place, QuantCo "Claim to Fame" track at the European Hackathon League 2026.
-- [cake-cutting-lean](https://github.com/stegra05/cake-cutting-lean): Lean 4 formalization of Hollender-Rubinstein envy-free cake-cutting (bachelor thesis, instrumented LLM-assisted workflow).
+**[Lectern](https://github.com/stegra05/Lectern)**: turns lecture PDFs into Anki flashcards you can trust. Released desktop app (Tauri, MIT); agentic generation with per-card provenance and a visible coverage map.
+
+**[TfnpLean](https://github.com/stegra05/TfnpLean)**: my bachelor's thesis at TUM. A Lean 4 library of checked definitions and theorem statements for TFNP, PPAD, End-of-Line and Pure-Circuit, built on CSLib and Mathlib.
+
+**Hackathons**
+
+- [ehl-final-procurecabana](https://github.com/stegra05/ehl-final-procurecabana): winner of the European Hackathon League Grand Finale 2026 and 1st place in the Tacto challenge. An AI buyer that negotiates with suppliers by e-mail and closes the cheapest deal on its own.
+- [ehl-claimscabana](https://github.com/stegra05/ehl-claimscabana): 1st place, QuantCo "Claim to Fame" track at the European Hackathon League 2026. An autonomous claims adjudicator built on four blind LLM assessors.
 
 Also here: a [tactics board](https://github.com/stegra05/uniliga-tactics) for my university football team and a [3. Liga prediction backtester](https://github.com/stegra05/simple-predictor).
 
